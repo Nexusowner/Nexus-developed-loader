@@ -1,4 +1,4 @@
 local intro = loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/d6651b864a78bb91"))()
 intro(function()
-    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/febc98744aa5d1a3"))()
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/e2b3ec51fb710e19"))()
 end)
