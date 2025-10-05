@@ -1,0 +1,6 @@
+local intro = loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/d6651b864a78bb91"))()
+intro(function()
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/ed200d3d78979c0e"))()
+end)
+
+-- Replace the second loadstring with our script loadstring
