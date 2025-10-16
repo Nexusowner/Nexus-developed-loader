@@ -1,0 +1,44 @@
+local gid = game.GameId
+
+if gid == 3992278194 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/3992278194"))()
+
+elseif gid == 7750955984 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/7750955984"))()
+
+elseif gid == 994732206 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/994732206"))()
+
+elseif gid == 111958650 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/111958650"))()
+
+elseif gid == 3647333358 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/3647333358"))()
+
+elseif gid == 1335695570 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/1335695570"))()
+
+elseif gid == 7326934954 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/7326934954"))()
+
+elseif gid == 7436755782 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/7436755782"))()
+
+elseif gid == 4777817887 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/4777817887"))()
+
+elseif gid == 1119466531 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/1119466531"))()
+
+elseif gid == 8316902627 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/8316902627"))()
+
+elseif gid == 4931927012 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/4931927012"))()
+
+elseif gid == 6035872082 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexusowner/Nexus-developed-loader/refs/heads/main/6035872082"))()
+
+else
+    game.Players.LocalPlayer:Kick("Unsupported game")
+end
