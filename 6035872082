@@ -1,2 +1,2 @@
 -- rivals
-loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/1f4a7360a1bd480bbb3cbea1d048aa41"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/b132833612e14bf9a6067455882ad43a"))()
