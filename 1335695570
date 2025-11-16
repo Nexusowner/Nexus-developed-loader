@@ -1,0 +1,2 @@
+-- ninja legends
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/3df7890f6a0b4b1c9a03090f264206bb"))()
