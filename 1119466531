@@ -1,2 +1,2 @@
 -- legends of speed
-loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/4cf30d1e50aa4424a2b8baa93475c4f7"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/96e9b6beb91547d0a8bd3d05ccff5db1"))()
