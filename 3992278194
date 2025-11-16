@@ -1,2 +1,2 @@
 -- easy stud obby
-loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/5d6a2b695ecb4bf3af2942af2e2120a2"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/e8bf521986f249cebbb9784ce08eab39"))()
