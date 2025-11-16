@@ -1,2 +1,2 @@
 -- ninja legends
-loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/3df7890f6a0b4b1c9a03090f264206bb"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/80f5180444db4bd8a79d594c86011714"))()
