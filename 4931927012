@@ -1,2 +1,2 @@
 -- basketball legends 
-loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/791f132e6203446f84f5f05d19e13fdc"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/eed8d09fbd41447aaf552b83a30b761f"))()
