@@ -1,2 +1,2 @@
 -- plants vs brainrots 
-loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/8159a370587345d0ae81357a9114f554"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/4b787150e0614394814a40f48e8ec325"))()
